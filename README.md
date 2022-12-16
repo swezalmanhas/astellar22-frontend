@@ -9,7 +9,7 @@ npm run start
 ```
 
 
-## Generate Prod files  
+## Generate Prod files : Do this in Prod VM only!
 
 ```
 npm run build
